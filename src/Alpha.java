@@ -1,4 +1,4 @@
 
-public class Alpha {
-
+public class Alpha() {
+	
 }
